@@ -9,6 +9,18 @@ The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepres
 pnpm i
 ```
 
+## excalidraw 中是流程图的源码
+
+`excalidraw/*.excalidraw` 会在 `pnpm docs:dev` / `pnpm docs:build` 时自动导出为静态 SVG。
+
+在 Markdown 中这样引用：
+
+```md
+![](/excalidraw/ego_planner.excalidraw)
+```
+
+https://excalidraw.com/
+
 ## Usage
 
 ```sh

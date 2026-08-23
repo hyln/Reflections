@@ -1,11 +1,31 @@
 ---
-title: ego_planner
+title: ego_planner v1 学习
 createTime: 2024/09/09 17:19:53
 permalink: /article/w8ma430w/
 ---
 
 
 # 总览
+
+![](/excalidraw/ego_planner.excalidraw)
+
+ego_planner中包含了很多个技术点
+- Grid Map 构建
+- 多段五次多项式初始轨迹生成
+- 将五次多项式从采样成 B-spline，初始轨迹
+- 优化B-spline 
+- 将轨迹采样成当前期望位置
+
+
+## GridMap 构建
+
+
+## 多项式轨迹飞行
+
+
+
+## 
+
 
 EGO_planner 无论需要经过多少个路径点，总可以简化问题为 **从当前位置到达下一个路径点**
 

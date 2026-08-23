@@ -22,6 +22,15 @@ const zhDemoNote = defineNoteConfig({
   // ]
 })
 
+
+const zhAlgorithmNote = defineNoteConfig({
+  dir: 'algorithm',
+  link: '/algorithm',
+  sidebar: 'auto',
+  // sidebar: ['', 'atti_control', 'EKF_height','px4_mode','firmware_change','mc_mixer'],
+})
+
+
 const zhPx4CodeNote = defineNoteConfig({
   dir: 'px4code',
   link: '/px4code',
@@ -68,16 +77,25 @@ const zhProductionDocNote = defineNoteConfig({
 
 })
 
+const zhEvcamNote = defineNoteConfig({
+  dir: 'evcam',
+  link: '/evcam',
+  sidebar: 'auto',
+})
+
 
 export const zhNotes = defineNotesConfig({
   dir: 'notes',
   link: '/',
-  notes: [zhPx4CodeNote,
+  notes: [
+    zhAlgorithmNote,
+    zhPx4CodeNote,
     zhRobotBaseNote,
     zhNormalHwBaseNote,
     zhLinuxBaseNote,
     zhEasyServerManageNote,
     zhProductionDocNote,
+    zhEvcamNote,
   ],
 })
 

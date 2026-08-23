@@ -1,10 +1,12 @@
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { plumeTheme } from 'vuepress-theme-plume'
+import { excalidrawPlugin } from './excalidraw-plugin.js'
 
 export default defineUserConfig({
   // base: '/Knowledge-Base/',
   base: '/',
+  plugins: [excalidrawPlugin()],
 
   lang: 'zh-CN',
   locales: {
