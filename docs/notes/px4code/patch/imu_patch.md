@@ -4,7 +4,10 @@ createTime: 2026/08/23 18:13:35
 permalink: /px4code/7w0do0tw/
 ---
 
-两个
+两个目的
+
+- 让 ros topic  的imu部分 帧率稳定
+- 让 px4不再实时更新gyro bias 的偏置，因为bias更新依赖于真实位置，而真实位置是VIO算出的，我们不能拿Imu估计出来的位置更新imu bias
 
 
 ```bash
