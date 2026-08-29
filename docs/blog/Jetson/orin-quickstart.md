@@ -44,7 +44,7 @@ tags:
 - (失败), 12V 2A 适配器，无法开机。12V 3A 适配器可用
 - 天线效果可能不太好，要注意
 - (OTG)虚拟网卡很不稳定，是不是需要USB 3.0的线材，TODO
-https://forums.developer.nvidia.com/t/coneection-problems/179380/6
+[https://forums.developer.nvidia.com/t/coneection-problems/179380/6](https://forums.developer.nvidia.com/t/coneection-problems/179380/6)
 
 
 :::info
@@ -96,10 +96,10 @@ Jetpack 5.1.3
 
 ==命令行烧写镜像==
 
-https://developer.nvidia.com/embedded/jetson-linux-archive
+[https://developer.nvidia.com/embedded/jetson-linux-archive](https://developer.nvidia.com/embedded/jetson-linux-archive)
 
 
-https://docs.nvidia.com/jetson/archives/r34.1/DeveloperGuide/text/IN/QuickStart.html#to-flash-jetson-developer-kit-operating-software 
+[https://docs.nvidia.com/jetson/archives/r34.1/DeveloperGuide/text/IN/QuickStart.html#to-flash-jetson-developer-kit-operating-software](https://docs.nvidia.com/jetson/archives/r34.1/DeveloperGuide/text/IN/QuickStart.html#to-flash-jetson-developer-kit-operating-software) 
 
 ## 开始配置
 

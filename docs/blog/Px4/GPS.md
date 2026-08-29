@@ -19,7 +19,7 @@ GPS的经纬度数据表示方法有
 
  _CORS_, also known as Continuously Operating Reference Stations, is one or several fixed and continuously operating GNSS reference stations
 
-https://geo-matching.com/articles/the-principles-and-performance-of-cors-network-rtk-and-vrs
+[https://geo-matching.com/articles/the-principles-and-performance-of-cors-network-rtk-and-vrs](https://geo-matching.com/articles/the-principles-and-performance-of-cors-network-rtk-and-vrs)
 
 
 

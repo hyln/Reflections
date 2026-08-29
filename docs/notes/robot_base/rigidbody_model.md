@@ -39,4 +39,4 @@ $$
 
 
 
-[^wiki_newton_euler]:https://en.wikipedia.org/wiki/Newton%E2%80%93Euler_equations
+[^wiki_newton_euler]:[https://en.wikipedia.org/wiki/Newton%E2%80%93Euler_equations](https://en.wikipedia.org/wiki/Newton%E2%80%93Euler_equations)

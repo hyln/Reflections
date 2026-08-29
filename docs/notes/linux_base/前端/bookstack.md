@@ -5,11 +5,11 @@ permalink: /linux_base/frontend/ho5f98ok/
 ---
 
 
-https://www.bookstackapp.com/docs/admin/installation/
+[https://www.bookstackapp.com/docs/admin/installation/](https://www.bookstackapp.com/docs/admin/installation/)
 
 # docker 安装
 
-https://github.com/linuxserver/docker-bookstack 可以直接使用docker-compose
+[https://github.com/linuxserver/docker-bookstack](https://github.com/linuxserver/docker-bookstack) 可以直接使用docker-compose
 
 # 默认管理员
 
@@ -21,7 +21,7 @@ https://github.com/linuxserver/docker-bookstack 可以直接使用docker-compose
 
 # Latex 公式兼容
 
-https://www.bookstackapp.com/hacks/mathjax-tex/
+[https://www.bookstackapp.com/hacks/mathjax-tex/](https://www.bookstackapp.com/hacks/mathjax-tex/)
 
 使用管理员在设置中设置`Custom HTML Head Content`
 
@@ -82,4 +82,4 @@ window.MathJax = {
 ```
 
 ## 参考
-> https://liam.page/2015/09/09/fix-conflict-between-mathjax-and-markdown/
+> [https://liam.page/2015/09/09/fix-conflict-between-mathjax-and-markdown/](https://liam.page/2015/09/09/fix-conflict-between-mathjax-and-markdown/)

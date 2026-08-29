@@ -137,13 +137,13 @@ networking/inetd.c:178:11: fatal error: rpc/rpc.h: No such file or directory
 
 
 ## 参考资料
-https://gist.github.com/ncmiller/d61348b27cb17debd2a6c20966409e86
+[https://gist.github.com/ncmiller/d61348b27cb17debd2a6c20966409e86](https://gist.github.com/ncmiller/d61348b27cb17debd2a6c20966409e86)
 
-https://developer.nvidia.com/embedded/jetpack
+[https://developer.nvidia.com/embedded/jetpack](https://developer.nvidia.com/embedded/jetpack)
 
-https://www.cnblogs.com/lvzh/p/14907592.html
+[https://www.cnblogs.com/lvzh/p/14907592.html](https://www.cnblogs.com/lvzh/p/14907592.html)
 
-https://www.cnblogs.com/bruce1992/p/17670128.html
+[https://www.cnblogs.com/bruce1992/p/17670128.html](https://www.cnblogs.com/bruce1992/p/17670128.html)
 
 
 

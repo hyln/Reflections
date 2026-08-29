@@ -12,7 +12,7 @@ permalink: /normal_hw/d13p0ikg/
 # ESC bluejay 开源电调
 
 
-https://github.com/mathiasvr/bluejay/wiki
+[https://github.com/mathiasvr/bluejay/wiki](https://github.com/mathiasvr/bluejay/wiki)
 
 Bluejay 在基于 EFM8 Busy Bee 的 ESC 上运行，最显著的是作为 BLHeli_S 固件的升级。
 
@@ -30,22 +30,22 @@ Bluejay 在基于 EFM8 Busy Bee 的 ESC 上运行，最显著的是作为 BLH
 
 # 文档
 
-- 官方文档: https://bird-sanctuary.github.io/bluejay-documentation/
+- 官方文档: [https://bird-sanctuary.github.io/bluejay-documentation/](https://bird-sanctuary.github.io/bluejay-documentation/)
 - 最佳 BLHeli_32 设置以实现最佳 FPV 无人机性能
 - How to Flash Bluejay ESC Firmware and Best Settings
 
 # 设置
 
-https://github.com/bird-sanctuary/bluejay/wiki/Settings
+[https://github.com/bird-sanctuary/bluejay/wiki/Settings](https://github.com/bird-sanctuary/bluejay/wiki/Settings)
 
-- C2 刷固件https://github.com/bird-sanctuary/bluejay/wiki/Unbrick-ESC
+- C2 刷固件[https://github.com/bird-sanctuary/bluejay/wiki/Unbrick-ESC](https://github.com/bird-sanctuary/bluejay/wiki/Unbrick-ESC)
 
 
 
 ## Crazyflies 硬件
 
-- EFM 8 文档https://www.silabs.com/documents/public/reference-manuals/efm8bb1-rm.pdf
-- crazyfiles 原理图 https://github.com/bitcraze/hardware/blob/master/src/products/crazyflie-2_1_brushless/electronics/cf2.1_bl_schematics_Rev.G.pdf
+- EFM 8 文档[https://www.silabs.com/documents/public/reference-manuals/efm8bb1-rm.pdf](https://www.silabs.com/documents/public/reference-manuals/efm8bb1-rm.pdf)
+- crazyfiles 原理图 [https://github.com/bitcraze/hardware/blob/master/src/products/crazyflie-2_1_brushless/electronics/cf2.1_bl_schematics_Rev.G.pdf](https://github.com/bitcraze/hardware/blob/master/src/products/crazyflie-2_1_brushless/electronics/cf2.1_bl_schematics_Rev.G.pdf)
 - EFM 8芯片的标准刷固件方式c2 ；C2 is a 2-pin protocol.
 
 
@@ -76,18 +76,18 @@ https://github.com/bird-sanctuary/bluejay/wiki/Settings
 
 代码中找到了其实是O
 
-https://github.com/bitcraze/bluejay/commit/f97478a78217029ea6e546ac372aa50bb13131ec
+[https://github.com/bitcraze/bluejay/commit/f97478a78217029ea6e546ac372aa50bb13131ec](https://github.com/bitcraze/bluejay/commit/f97478a78217029ea6e546ac372aa50bb13131ec)
 
 这个接口显然无法直接使用串口，需要使用 
 
-https://github.com/bird-sanctuary/bluejay/wiki/Unbrick-ESC
+[https://github.com/bird-sanctuary/bluejay/wiki/Unbrick-ESC](https://github.com/bird-sanctuary/bluejay/wiki/Unbrick-ESC)
 
 
 
 
 # 刷写
 
-- https://esc-configurator.com/
+- [https://esc-configurator.com/](https://esc-configurator.com/)
 
 还有一个
 

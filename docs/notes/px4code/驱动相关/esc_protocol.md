@@ -110,5 +110,5 @@ ESC在双向DSHOT模式下发送的eRPM遥测帧也是16位值，因此与接收
 - **9 bit**:  周期基数
 具体的这里不再详述，请看参考资料2
 # 参考资料
-1. https://docs.px4.io/main/en/peripherals/esc_motors.html
-2. https://brushlesswhoop.com/dshot-and-bidirectional-dshot/
+1. [https://docs.px4.io/main/en/peripherals/esc_motors.html](https://docs.px4.io/main/en/peripherals/esc_motors.html)
+2. [https://brushlesswhoop.com/dshot-and-bidirectional-dshot/](https://brushlesswhoop.com/dshot-and-bidirectional-dshot/)

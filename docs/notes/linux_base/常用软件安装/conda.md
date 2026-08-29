@@ -32,13 +32,13 @@ conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
 conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
 conda config --set show_channel_urls yes
 ```
-https://mirrors.ustc.edu.cn/help/anaconda.html
+[https://mirrors.ustc.edu.cn/help/anaconda.html](https://mirrors.ustc.edu.cn/help/anaconda.html)
 ## pip 换源
 ```
 # 换清华源
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+[https://mirrors.tuna.tsinghua.edu.cn/help/pypi/](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
 
 ## apt换源
 

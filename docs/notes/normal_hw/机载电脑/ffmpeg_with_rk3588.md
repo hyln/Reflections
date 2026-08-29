@@ -10,7 +10,7 @@ RK3588标称解码能力为
 - h265 8K@60fps
 
 提供了适配了 Rockchip MPP (Media Process Platform，rockchip中的硬件解码器的ffmpeg
-https://github.com/nyanmisaka/ffmpeg-rockchip
+[https://github.com/nyanmisaka/ffmpeg-rockchip](https://github.com/nyanmisaka/ffmpeg-rockchip)
 # 安装
 ffmpeg-rockchip 中提供了[安装方法](https://github.com/nyanmisaka/ffmpeg-rockchip/wiki/Compilation), 但是感觉写的不够清楚，他的意思是要先去找官方教程上的依赖安装部分，安装所需的依赖，(ffmpeg为编解码器提供了统一的接口，在安装教程中出现了多种编解码库的安装，是可选的，对于rk平台，我们肯定是为了使用硬件解码器，因此我们可以一个也不用安装)
 

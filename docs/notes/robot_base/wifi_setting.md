@@ -22,7 +22,7 @@ permalink: /robot_base/9ngg2j4i/
 - 对于802.11n标准，最低信号速率可以在不同的频段下变化，一般为6 Mbps或者更高。（2.4/5Ghz）
 - 对于802.11ac标准，最低信号速率通常在10 Mbps或者更高。（5Ghz）
 
-https://superuser.com/questions/1632104/why-is-my-wifi-slow-when-i-send-a-video-using-broadcast-udp-packets-on-a-differe
+[https://superuser.com/questions/1632104/why-is-my-wifi-slow-when-i-send-a-video-using-broadcast-udp-packets-on-a-differe](https://superuser.com/questions/1632104/why-is-my-wifi-slow-when-i-send-a-video-using-broadcast-udp-packets-on-a-differe)
 
 当局域网中存在多个设备时这样的带宽并不能满足需求。因此当发送复杂数据时经常会丢包。
 

@@ -7,7 +7,7 @@ permalink: /article/1zbyaj5c/
 ## 用户名更改
 
 默认用户名为khadas，密码是khadas
-https://blog.nowcoder.net/n/525cc83df73448a0909cb2a0c286df72
+[https://blog.nowcoder.net/n/525cc83df73448a0909cb2a0c286df72](https://blog.nowcoder.net/n/525cc83df73448a0909cb2a0c286df72)
 
 :::info
 示例中 ： khadas 是 oldName, qyswarm 是 newName,X152b-ubuntu20 是newHostName
@@ -85,7 +85,7 @@ systemctl restart dnsmasq
     ![](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/hyaline_kb/X152b/dump-write/image_20241022210357.png)
 
 2. 通电，然后按住Function键并短按reset键进入 oowow
-3. 在浏览器中使用 http://172.22.1.1/x/control  进入控制界面
+3. 在浏览器中使用 [http://172.22.1.1/x/control](http://172.22.1.1/x/control)  进入控制界面
 
     ![](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/hyaline_kb/X152b/dump-write/image_20241022233636.png) 
 
@@ -96,7 +96,7 @@ systemctl restart dnsmasq
 ### write 镜像
 
 5. 启动电脑后，按住Function键并短按reset键进入 oowow    
-6. 在浏览器中使用 http://172.22.1.1/x/control  进入控制界面
+6. 在浏览器中使用 [http://172.22.1.1/x/control](http://172.22.1.1/x/control)  进入控制界面
     ![](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/hyaline_kb/X152b/dump-write/image_20241022233636.png)
 7. 选择    
     ![](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/hyaline_kb/X152b/dump-write/image_20241022210900.png)

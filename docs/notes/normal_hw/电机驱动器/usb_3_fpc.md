@@ -17,7 +17,7 @@ permalink: /normal_hw/nl3cste6/
 > 嘉立创推荐线宽线距为 0.2/0.2 mm
 
 
-http://www.pibomo.com/datum/315.html
+[http://www.pibomo.com/datum/315.html](http://www.pibomo.com/datum/315.html)
 # 差分线绘制
 
 长度差通常控制在5mil以内，补偿原则是哪里出现长度差补偿哪里
@@ -28,7 +28,7 @@ http://www.pibomo.com/datum/315.html
 
 # usb 连接
 
-https://www.usbzh.com/article/detail-888.html
+[https://www.usbzh.com/article/detail-888.html](https://www.usbzh.com/article/detail-888.html)
 
 
 ![](https://emnavi-doc-img.oss-cn-beijing.aliyuncs.com/hao_doc/Pasted%20image%2020240503031733.png)
@@ -38,10 +38,10 @@ CC 端口如果在无 PD 快充协议的适配中（比如电脑 USB 接口，�
 
 
 sbu 端口 用于视频传输 可以不连接
-https://electronics.stackexchange.com/questions/588126/are-usb-type-c-pull-resistor-neccesary-on-cc-and-sbu-pins
+[https://electronics.stackexchange.com/questions/588126/are-usb-type-c-pull-resistor-neccesary-on-cc-and-sbu-pins](https://electronics.stackexchange.com/questions/588126/are-usb-type-c-pull-resistor-neccesary-on-cc-and-sbu-pins)
 
 
-https://www.chongdiantou.com/archives/38284.html
+[https://www.chongdiantou.com/archives/38284.html](https://www.chongdiantou.com/archives/38284.html)
 
 
 # 什么是补强板避让

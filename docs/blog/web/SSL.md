@@ -1,15 +1,16 @@
 ---
-title: b
+title: SSL
 createTime: 2026/08/30 01:23:03
 permalink: /blog/gc2di7dt/
 ---
 
-
-
 # SSL 更新
 
-去这里申请
-https://console.cloud.tencent.com/certoverview
+## 腾讯云申请
+
+> 比较复杂，且一次仅有90天
+
+去这里申请[certoverview](https://console.cloud.tencent.com/certoverview)
 
 下载 ，覆盖，按文档覆盖
 

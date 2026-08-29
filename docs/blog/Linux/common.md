@@ -10,7 +10,7 @@ permalink: /article/07rthpjc/
 >  时长sync一下还是稳妥的
 
 
-https://forums.developer.nvidia.com/t/tuning-linux-on-jetson-nano-for-better-data-reliability-in-power-failure-scenario/252664/5
+[https://forums.developer.nvidia.com/t/tuning-linux-on-jetson-nano-for-better-data-reliability-in-power-failure-scenario/252664/5](https://forums.developer.nvidia.com/t/tuning-linux-on-jetson-nano-for-better-data-reliability-in-power-failure-scenario/252664/5)
 
 突然掉电可能会导致两个问题
 
@@ -94,7 +94,7 @@ SUBSYSTEM=="tty", ATTRS{manufacturer}=="emNavi", SYMLINK+="ttySensorBridge"
 > 修改优先级
 > 
 
-https://bestoko.cc/p/linux-fonts-size/
+[https://bestoko.cc/p/linux-fonts-size/](https://bestoko.cc/p/linux-fonts-size/)
 `vim /etc/fonts/conf.d/64-language-selector-prefer.conf`
 
 ## 更好看的字体

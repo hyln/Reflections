@@ -5,7 +5,7 @@ permalink: /ol2d7qo5/
 ---
 
 
-https://bret.dk/intel-n100-a-challenge-to-arm/#Compute-Benchmarks
+[https://bret.dk/intel-n100-a-challenge-to-arm/#Compute-Benchmarks](https://bret.dk/intel-n100-a-challenge-to-arm/#Compute-Benchmarks)
 
 ## BIOS 设置
 

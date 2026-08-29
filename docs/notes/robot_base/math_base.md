@@ -236,4 +236,4 @@ $$
 在优化问题中，通常需要求极小值，例如在QP问题中，需要保证 Hessian 矩阵是一个正定矩阵。（正定矩阵首先是对称的）
 :::
 
-[^Half-Way_Quaternion_Solution_Ref]: https://stackoverflow.com/questions/1171849/finding-quaternion-representing-the-rotation-from-one-vector-to-another
+[^Half-Way_Quaternion_Solution_Ref]: [https://stackoverflow.com/questions/1171849/finding-quaternion-representing-the-rotation-from-one-vector-to-another](https://stackoverflow.com/questions/1171849/finding-quaternion-representing-the-rotation-from-one-vector-to-another)

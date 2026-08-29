@@ -159,8 +159,8 @@ make -j8
 sudo make install
 ```
 
-https://github.com/openMVG/openMVG/issues/85
-https://github.com/IntelRealSense/librealsense/issues/5518
+[https://github.com/openMVG/openMVG/issues/85](https://github.com/openMVG/openMVG/issues/85)
+[https://github.com/IntelRealSense/librealsense/issues/5518](https://github.com/IntelRealSense/librealsense/issues/5518)
 
 
 

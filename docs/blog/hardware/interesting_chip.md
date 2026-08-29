@@ -6,7 +6,7 @@ permalink: /article/5sykbekn/
 
 # TOF
 
-光微科技 http://www.tof3d.com/ProductsSt_cptj.html
+光微科技 [http://www.tof3d.com/ProductsSt_cptj.html](http://www.tof3d.com/ProductsSt_cptj.html)
 
 - 
 - TMF8828：多区域，包括3x3、4x4、3x6和8x8区域
