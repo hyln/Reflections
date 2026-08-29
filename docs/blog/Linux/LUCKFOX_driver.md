@@ -256,7 +256,7 @@ nano somefile.c # 再次修改
 git diff > ~/v4l-utils-feature.patch
 ```
 
-对于 buildroot 只要在 buildroot-XXXXXX/package/<pkg-name>/  下添加 .patch文件，就会自动生效
+对于 buildroot 只要在 `buildroot-XXXXXX/package/<pkg-name>/` 下添加 .patch文件，就会自动生效
 
 
 

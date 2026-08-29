@@ -1,6 +1,6 @@
 import { defineThemeConfig } from 'vuepress-theme-plume'
 import { enNavbar, zhNavbar } from './navbar'
-import { enNotes, zhNotes } from './notes'
+import { enCollections, zhCollections } from './collections'
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -24,7 +24,7 @@ export default defineThemeConfig({
     '/': {
       profile: {
         avatar: 'notebook.svg',
-        name: 'Reflections of Hyaline',
+        name: 'Hyaline',
         description: '个人博客，整理的笔记',
         // circle: true,
         // location: '',
@@ -32,7 +32,7 @@ export default defineThemeConfig({
       },
 
       navbar: zhNavbar,
-      notes: zhNotes,
+      collections: zhCollections,
     },
     '/en/': {
       profile: {
@@ -45,7 +45,7 @@ export default defineThemeConfig({
       },
 
       navbar: enNavbar,
-      notes: enNotes,
+      collections: enCollections,
     },
   },
 })

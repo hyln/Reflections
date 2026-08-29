@@ -14,7 +14,7 @@ config:
     # background: tint-plate
     # tintPlate: 210
     # hero:
-    #   name: Reflections of Hyaline
+    #   name: Hyaline
     #   # tagline: Notebook
     #   text: Px4飞控，机器人相关软件的使用指南及源码阅读笔记
     #   actions:

@@ -67,7 +67,7 @@ for (unsigned i = 0; i < _rotor_count; i++) {
 但是，**Mixer可能会发生油门饱和（到达上下限）的现象**,这种情况下引入minimize_saturation
 # [airmode & Mixer Saturation](https://docs.px4.io/main/en/config_mc/pid_tuning_guide_multicopter.html?#airmode-mixer-saturation)
 在电机输出饱和（到达上下限）的情况下,需要缩小或放大推力。
-![[Pasted image 20240110194707.png]]
+<!-- 原图 Pasted image 20240110194707.png 未纳入仓库 -->
 PX4给定了3种模式
 - **0:** Disabled
 - **1:** Roll/Pitch
