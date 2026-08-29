@@ -26,7 +26,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     // 添加您的部署域名
-    hostname: 'https://hyaline.qyswarm.top/',
+    hostname: 'https://hyln.space/',
     // encrypt: {
     //   global: true,
     //   admin: ['123456'],
